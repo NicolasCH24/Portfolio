@@ -1,0 +1,31 @@
+Jurisdicción	Total (1)	Mujer / Femenino	Varón / Masculino	X / Ninguna de las anteriores	Partido
+Total	45.770.820	23.690.481	22.072.046	8.293	
+Ciudad Autónoma de Buenos Aires	3.093.845	1.666.874	1.426.112	859	A
+Buenos Aires	17.451.860	9.039.102	8.410.073	2.685	C
+Catamarca	427.417	218.528	208.858	31	B
+Chaco	1.137.086	587.636	549.406	44	D
+Chubut	599.612	305.364	294.169	79	A
+Córdoba	3.946.326	2.043.559	1.902.135	632	A
+Corrientes	1.195.576	615.293	580.013	270	B
+Entre Ríos	1.416.463	728.506	687.698	259	C
+Formosa	604.278	309.558	294.653	67	D
+Jujuy	797.091	410.753	386.067	271	D
+La Pampa	364.560	185.804	178.750	6	D
+La Rioja	383.128	196.787	186.290	51	D
+Mendoza	2.001.302	1.034.005	966.819	478	C
+Misiones	1.275.168	652.184	622.907	77	B
+Neuquén	723.670	368.638	354.755	277	B
+Río Negro	758.001	388.236	369.654	111	A
+Salta	1.432.082	736.965	694.898	219	A
+San Juan	814.877	418.550	396.048	279	A
+San Luis	539.872	275.955	263.807	110	A
+Santa Cruz	331.707	167.622	164.037	48	C
+Santa Fe	3.536.001	1.833.015	1.702.342	644	C
+Santiago del Estero	1.050.268	535.383	514.714	171	D
+"Tierra del Fuego, Antártida e Islas
+del Atlántico Sur (2)"	189.785	95.169	94.438	178	D
+Tucumán	1.700.845	876.995	823.403	447	D
+					
+(1) Incluye la población en situación de calle censada en la vía pública.					
+(2) Las Islas Malvinas, Georgias del Sur, Sándwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que pertenecen a la República Argentina.					
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados provisionales.					
