@@ -3,7 +3,7 @@ Portfolio creado para trabajos y proyectos de Data Analytics y Data Science.
 ## Autor -
 **Nicolas Chaparro**
 
-* [LinkedIn](www.linkedin.com/in/nicolas-chaparro-012aa325a)
+* [LinkedIn](https://www.linkedin.com/in/nicolas-chaparro-012aa325a/)
 * [Instagram](https://www.instagram.com/cn_solucionesinformaticas/)
 
 ## Instalación 📊
