@@ -1,13 +1,13 @@
 ## Descripcion 📝
-Este es un portfolio creado para trabajos y proyectos de Data Analytics y Data Science.
+Portfolio creado para trabajos y proyectos de Data Analytics y Data Science.
 ## Autor -
 **Nicolas Chaparro**
 
-* [LinkedIn](www.linkedin.com/in/nicolas-chaparro-012aa325)
+* [LinkedIn](www.linkedin.com/in/nicolas-chaparro-012aa325a)
 * [Instagram](https://www.instagram.com/cn_solucionesinformaticas/)
 
 ## Instalación 📊
-Estos proyectos no necesitas de instalación. Simplemente acceder a la carpeta o hacer doble clic en los archivos .pbix o .ipynb
+Estos proyectos no necesitan de instalación. Simplemente acceder a la carpeta o hacer doble clic en los archivos .pbix o .ipynb.
 
 ## Contacto
 Me podés escribir a nico.sp903@gmail.com
