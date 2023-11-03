@@ -13,5 +13,5 @@ Estos proyectos no necesitan de instalación. Simplemente acceder a la carpeta o
 Me podés escribir a nico.sp903@gmail.com
 
 ## Licencia 📃
-MIT Public Lucense V3.0
+MIT Public License V3.0
 No puede usarse comercialmente.
