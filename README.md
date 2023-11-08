@@ -7,7 +7,7 @@ Portfolio creado para trabajos y proyectos de Data Analytics y Data Science.
 * [Instagram](https://www.instagram.com/cn_solucionesinformaticas/)
 
 ## Instalación 📊
-Se necesita solo Power BI para los archivos pbix. 
+Se necesita solo Power BI para los archivos .pbix. 
 Simplemente acceder a la carpeta o hacer doble clic en los archivos .pbix o .ipynb.
 
 ## Contacto
