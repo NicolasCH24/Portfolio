@@ -26,22 +26,22 @@ This section contains projects, solutions, and investigations of real-world situ
 
 
 ## Guide 📚
-- Forecasting
+- Forecasting : 
 A comparative study of the Forecaster Autoreg and Autoreg Direct models with different regressors.
 
-- K-Means Spotify
+- K-Means Spotify : 
 These notebooks contain a machine learning project about the K-Means algorithm applied to Spotify. It can be used to create a recommendation system.
 
-- PySpark
+- PySpark : 
 Contains the steps for data cleaning and filtering with PySpark on a Spotify dataset. It concludes with a recommendation system using cosine similarity search.
 
-- UFC Machine Learning
+- UFC Machine Learning : 
 Project completed during my years as a student. The notebook presents an overview of all classification algorithms and compares their final results. It can be used to predict the outcomes of upcoming fights.
 
-- Power BI Crimen Argentina
+- Power BI Crimen Argentina : 
 Represents the situation of crime in Argentina from 2014 to 2022. The dashboard provides explicit information about crime statistics, population, and poverty.
 
-- Python - Crimen en Argentina
+- Python - Crimen en Argentina : 
 Exclusive process of data cleaning and filtering. Uses the libraries Seaborn and Matplotlib to represent data.
 
     
