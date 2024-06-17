@@ -1,26 +1,74 @@
-## Portafolio - Trabajos y proyectos 📊
+# Portfolio - Data Engineer - Data Science - Data Analytics  🔬
 
-Portfalio creado para trabajos y proyectos de Data Analytics y Data Science.
+This section contains projects, solutions, and investigations of real-world situations.
 
 
-## Autor
-**Chaparro Nicolas**
+## Author
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-chaparro-012aa325a/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cn_solucionesinformaticas/)
-[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nicolaschaparro)
+- [Chaparro Nicolas](https://www.linkedin.com/in/nicolas-chaparro-012aa325a/)
 
 
 
-## Instalación
 
-Se necesita solo Power BI para los archivos .pbix. Para lo demás, simplemente acceder a la carpeta o hacer doble clic en los archivos .ipynb.
+## Stack 🛠️
+
+- [Anaconda](https://www.anaconda.com/products/navigator)
+
+- [VS Code](https://code.visualstudio.com/)
+
+- [Power BI](https://powerbi.microsoft.com/es-es/desktop/)
+
+- [Python](https://www.python.org/)
+
+- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
+
+
+
+
+## Guide 📚
+- Forecasting
+A comparative study of the Forecaster Autoreg and Autoreg Direct models with different regressors.
+
+- K-Means Spotify
+These notebooks contain a machine learning project about the K-Means algorithm applied to Spotify. It can be used to create a recommendation system.
+
+- PySpark
+Contains the steps for data cleaning and filtering with PySpark on a Spotify dataset. It concludes with a recommendation system using cosine similarity search.
+
+- UFC Machine Learning
+Project completed during my years as a student. The notebook presents an overview of all classification algorithms and compares their final results. It can be used to predict the outcomes of upcoming fights.
+
+- Power BI Crimen Argentina
+Represents the situation of crime in Argentina from 2014 to 2022. The dashboard provides explicit information about crime statistics, population, and poverty.
+
+- Python - Crimen en Argentina
+Exclusive process of data cleaning and filtering. Uses the libraries Seaborn and Matplotlib to represent data.
+
     
-## Correo 📧
+## 🔗 Contact
+[![portfolio](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cn_solucionesinformaticas/) 
 
-- nico.sp903@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-chaparro-012aa325a/)
 
+[![kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/nicolaschaparro)
+
+
+
+## Demo
+
+Relevant Jobs
+
+- [Finance AI Project](https://www.linkedin.com/posts/nicolas-chaparro-012aa325a_hola-red-les-comparto-un-proyecto-en-el-activity-7206027684626280448-8uPl?utm_source=share&utm_medium=member_desktop) 💵
+This personal project includes an LLM model to chat about the current market situation. The architecture integrates Apache Kafka (for real-time dashboards), SQL and NoSQL to structure the new knowledge of the AI, Python and Streamlit to deploy the app, and tools like threading to improve the user experience by avoiding delays.
+
+The best part of this project is the AI, which has integrated ML algorithms to perform stock price forecasting.
+
+- [Asesor AI Project](https://www.linkedin.com/posts/nicolas-chaparro-012aa325a_datascience-machinelearning-python-activity-7186824089703989248-q5Zi?utm_source=share&utm_medium=member_desktop) 👨‍💻
+A group project involving an RAG system with an LLM model. The video demonstrates how quickly the system stores documents in a Vector DB. Later, you can ask questions about the PDF, and the AI can respond quickly because it uses cosine similarity search for the vectors.
+
+The most difficult part was separating the users' documents because NoSQL does not support the relational model. Therefore, we worked with metadata, and each chat discussed information about the documents grouped by users.
 ## License
+
+[![MIT](https://img.shields.io/badge/license-MIT-blue)](https://choosealicense.com/licenses/mit/)
 
 - MIT Public License V3.0 No puede usarse comercialmente.
