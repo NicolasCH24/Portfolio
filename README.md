@@ -26,6 +26,9 @@ This section contains projects, solutions, and investigations of real-world situ
 
 
 ## Guide 📚
+- Data Engineer Task :
+This example contains a notebook file and a Python program that performs some processes with real employee information from Argentina. First, the data is in an irregular format, and then, with the correct practices, I create a Data Warehouse from it. Consider that this is a practice example. Perhaps the best approach would have been to create a relational common model rather than a Data Warehouse model, due to the nature of the data.
+
 - Forecasting : 
 A comparative study of the Forecaster Autoreg and Autoreg Direct models with different regressors.
 
